@@ -128,7 +128,7 @@ async fn get_token(credentials_location: String, tokencache_location: String) ->
     .await
     .expect("InstalledFlowAuthenticator failed to build");
 
-    let scopes = &["https://www.googleapis.com/auth/gmail.readonly"];
+    let scopes = &["https://www.googleapis.com/auth/gmail.metadata"];
 
     auth.token(scopes).await.unwrap().as_str().to_string()
 }
