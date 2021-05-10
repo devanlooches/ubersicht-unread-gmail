@@ -54,7 +54,8 @@ async fn main() {
 
     if res_unread.is_ok() {
         let p_unread: JsonValue = res_unread.unwrap();
-        println!("{}", p_unread["resultSizeEstimate"]);
+        let num_of_unread = &p_unread["resultSizeEstimate"];
+        println!("{}", num_of_unread);
     } else {
         println!("?");
     }
@@ -73,7 +74,10 @@ async fn main() {
 
     if res_email.is_ok() {
         let p_email: JsonValue = res_email.unwrap();
-        println!("{}", p_email["emailAddress"]);
+        let email_address = &p_email["emailAddress"];
+        let email_address = email_address.to_string().replace("\"","");
+        let email_address = &email_address[0..6];
+        println!("{}", email_address);
     } else {
         println!("?");
     }
@@ -84,9 +88,7 @@ async fn main() {
 /// we use the existing `DefaultInstalledFlowDelegate::present_user_url` method as a fallback for
 /// when the browser did not open for example, the user still see's the URL.
 async fn browser_user_url(url: &str, need_code: bool) -> Result<String, String> {
-    if webbrowser::open(url).is_ok() {
-        println!("webbrowser was successfully opened.");
-    }
+    webbrowser::open(url).unwrap();
     let def_delegate = DefaultInstalledFlowDelegate;
     def_delegate.present_user_url(url, need_code).await
 }
