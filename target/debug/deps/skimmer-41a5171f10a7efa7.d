@@ -1,0 +1,12 @@
+/Users/devan/Library/Application Support/Übersicht/widgets/mail.widget/target/debug/deps/skimmer-41a5171f10a7efa7.rmeta: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/data.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/marker.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/mod.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/into_reader.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/slice_reader.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/bytes_reader.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/ioreadeof_reader.rs
+
+/Users/devan/Library/Application Support/Übersicht/widgets/mail.widget/target/debug/deps/skimmer-41a5171f10a7efa7.d: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/data.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/marker.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/mod.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/into_reader.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/slice_reader.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/bytes_reader.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/ioreadeof_reader.rs
+
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/lib.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/data.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/marker.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/mod.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/into_reader.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/slice_reader.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/bytes_reader.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/skimmer-0.0.2/src/reader/ioreadeof_reader.rs:
