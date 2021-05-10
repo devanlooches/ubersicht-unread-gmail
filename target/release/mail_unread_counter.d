@@ -1,1 +1,0 @@
-/Users/devan/Library/Application\ Support/Übersicht/widgets/unreadmail.widget/gmail_unread_counter/target/release/mail_unread_counter: /Users/devan/Library/Application\ Support/Übersicht/widgets/unreadmail.widget/gmail_unread_counter/src/main.rs
