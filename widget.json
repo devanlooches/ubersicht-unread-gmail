@@ -1,6 +1,6 @@
 {
   "name": "ubersicht-unread-gmail",
-  "description": "",
+  "description": "Ubersicht Gmail Checker Written in Rust asynchronously using the Gmail Api",
   "author": "Devan Looches",
   "email": "devan.looches@gmail.com"
 }
