@@ -1,5 +1,5 @@
 # ubersicht-unread-gmail
-Show number of unread gmail using the gmail api and written in rust.
+Show number of unread gmail using the gmail api and written asynchronously in rust.
 
 ![demo](demo.png)
 
