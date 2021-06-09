@@ -1,0 +1,11 @@
+/Users/devan/workspace/Mail Unread Counter/target/debug/deps/futures_task-3fb18dc9e3a46874.rmeta: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs
+
+/Users/devan/workspace/Mail Unread Counter/target/debug/deps/futures_task-3fb18dc9e3a46874.d: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs
+
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs:

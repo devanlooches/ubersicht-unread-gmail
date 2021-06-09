@@ -1,0 +1,13 @@
+/Users/devan/workspace/gmail_unread_counter/target/debug/deps/url-b0b17f13b917b438.rmeta: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/Users/devan/workspace/gmail_unread_counter/target/debug/deps/liburl-b0b17f13b917b438.rlib: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/Users/devan/workspace/gmail_unread_counter/target/debug/deps/url-b0b17f13b917b438.d: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs:

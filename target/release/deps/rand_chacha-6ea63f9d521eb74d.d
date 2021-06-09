@@ -1,0 +1,9 @@
+/Users/devan/Library/Application Support/Übersicht/widgets/unreadmail.widget/gmail_unread_counter/target/release/deps/rand_chacha-6ea63f9d521eb74d.rmeta: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/chacha.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/guts.rs
+
+/Users/devan/Library/Application Support/Übersicht/widgets/unreadmail.widget/gmail_unread_counter/target/release/deps/librand_chacha-6ea63f9d521eb74d.rlib: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/chacha.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/guts.rs
+
+/Users/devan/Library/Application Support/Übersicht/widgets/unreadmail.widget/gmail_unread_counter/target/release/deps/rand_chacha-6ea63f9d521eb74d.d: /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/lib.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/chacha.rs /Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/guts.rs
+
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/lib.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/chacha.rs:
+/Users/devan/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.0/src/guts.rs:
