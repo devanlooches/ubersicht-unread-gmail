@@ -1,6 +1,8 @@
 # ubersicht-unread-gmail
 Show number of unread gmail using the gmail api and written in rust.
 
+![demo](demo.png)
+
 ## Installation
 Download and unzip the zip file.
 Move it into the widgets directory for uebersicht to read.
